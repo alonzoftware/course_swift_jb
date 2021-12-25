@@ -27,9 +27,9 @@ let language = "Swift"
 
 var red, green, blue: Double
 
-let π = 3.14159265
+let π = 3.14159265 //ALT P
 
-//let ☠️ = "muerte"
+//let ☠️🎄 = "muerte en Navidad" //CMD+CTRL+SPACE
 
 let 🐶🐮 = "perrovaca"
 
