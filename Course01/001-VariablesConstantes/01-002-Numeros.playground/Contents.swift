@@ -33,6 +33,9 @@ let decimalOctal = 0o21 // 8*2 + 1*1 = 17 en octal
 //Hexadecimal 0-9ABCDEF
 let decimalHexa = 0x11 // 16*1+1 = 17 en hexadecimal
 
+let decimalToBinary = String (25,radix:2)
+let decimalToOctal = String (25,radix:8)
+let decimalToHexa = String (25,radix:16)
 
 let number = 1.25e2 //1.25 * 10^2
 let number2 = 1.25e-2 // 0.0125
